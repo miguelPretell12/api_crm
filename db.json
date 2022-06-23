@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Miguel pretell",
+      "empresa": "DCS3",
+      "email": "miguelpretell59@gmail.com",
+      "telefono": "999770924",
+      "notas": "cdgdg gd gd gdggfg",
+      "id": 1
+    },
+    {
+      "nombre": "Miguel pretell",
+      "empresa": "Actualizado",
+      "email": "miguelpretell59@gmail.com",
+      "telefono": "999770924",
+      "notas": "cdgdg gd gd gdggfg",
+      "id": 3
+    }
+  ]
+}
